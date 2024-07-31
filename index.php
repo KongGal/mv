@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Info meta tags, important for social media + SEO -->
+<?php include_once("gtag.php") ?>
+<!-- Info meta tags, important for social media + SEO -->
 	<title>PUNKSTAVLIGT!</title>
 	<meta name="description" content="PUNKSTAVLIGT!">
 	<meta property="og:title" content="PUNKSTAVLIGT!">
@@ -26,7 +27,6 @@
     </style>
 </head>
 <body>
-    <?php include_once("gtag.php") ?>
 	<script src="https://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript"></script>
 	<!--<script src="js/firefly.js" type="text/javascript"></script> -->
 	<script src="js/main.js" type="text/javascript"></script>
