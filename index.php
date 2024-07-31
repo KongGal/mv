@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php include_once("gtag.php") ?>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FQEW738C4V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FQEW738C4V');
+</script>
 <!-- Info meta tags, important for social media + SEO -->
 	<title>PUNKSTAVLIGT!</title>
 	<meta name="description" content="PUNKSTAVLIGT!">
