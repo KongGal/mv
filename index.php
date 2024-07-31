@@ -3,12 +3,12 @@
 <head>
 	<!-- Info meta tags, important for social media + SEO -->
 	<title>Er du sur?</title>
-	<meta name="description" content="For det er vi">
-	<meta property="og:title" content="Er du sur?">
-	<meta property="og:site_name" content="viersure.dk">
-	<meta property="og:description" content="For det er vi">
+	<meta name="description" content="Dette er Mændsvilkår!">
+	<meta property="og:title" content="Dette er Mændsvilkår!">
+	<meta property="og:site_name" content="https://xn--mndsvilkr-d3ad.dk/">
+	<meta property="og:description" content="Dette er Mændsvilkår!">
 	<meta property="og:image" content="">
-	<meta property="og:url" content="https://viersure.dk/">
+	<meta property="og:url" content="https://xn--mndsvilkr-d3ad.dk/">
 	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 
