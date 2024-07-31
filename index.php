@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- Info meta tags, important for social media + SEO -->
-	<title>Er du sur?</title>
+	<title>PUNKSTAVLIGT!</title>
 	<meta name="description" content="PUNKSTAVLIGT!">
 	<meta property="og:title" content="PUNKSTAVLIGT!">
 	<meta property="og:site_name" content="https://xn--mndsvilkr-d3ad.dk/">
